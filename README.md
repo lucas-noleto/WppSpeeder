@@ -7,5 +7,5 @@ Some important things first:
 -You need to use it through chrome navigator.
 -May crash when whatsapp updates it.
 
-Still working on it, will be doing some upgrades later. 
+Still working on it, i'll be doing some upgrades later. 
 
